@@ -1,0 +1,14 @@
+{
+  "name": "nitro-edge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "dependencies": {
+    "@nuxt/nitro": "^0.9.1",
+    "@nuxt/nitro-edge": "^0.9.1-27129389.bf3f72e",
+    "nuxt-edge": "^2.16.0-27132492.cdbea391"
+  }
+}
